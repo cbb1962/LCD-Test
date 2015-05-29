@@ -18,7 +18,7 @@
  * LCD D7 pin to digital pin 2
  * LCD A pin to +5vdc
  * LCD K pin to Ground
-
+*comment
  */
 
 // include the library code:
